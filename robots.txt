@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/florianorgeret/sentinelles-du-littoral/sitemap.xml
+Sitemap: https://florianorgeret.github.io/sentinelles-du-littoral/sitemap.xml
