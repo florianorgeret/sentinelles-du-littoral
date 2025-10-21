@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sur les traces des sentinelles du littoral",
+    "description": "",
+    "home_page_url": "https://github.com/florianorgeret/sentinelles-du-littoral",
+    "feed_url": "https://github.com/florianorgeret/sentinelles-du-littoral/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/florianorgeret/sentinelles-du-littoral/media/website/favicon.ico",
+    "author": {
+        "name": "Florian Orgeret"
+    },
+    "items": [
+    ]
+}
