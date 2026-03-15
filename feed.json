@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sur les traces des sentinelles du littoral",
+    "title": "SENTI•RISK",
     "description": "",
     "home_page_url": "https://www.sentirisk.org",
     "feed_url": "https://www.sentirisk.org/feed.json",
     "user_comment": "",
-    "icon": "https://www.sentirisk.org/media/website/favicon.ico",
     "author": {
         "name": "Florian Orgeret"
     },
